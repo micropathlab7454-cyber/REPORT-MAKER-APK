@@ -1,0 +1,6 @@
+{
+  "name": "MICRO PATHOLOGY LAB & Lab",
+  "description": "A complete professional pathology laboratory management app featuring patient tracking, test billing, reports, inventory, staff roles, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
